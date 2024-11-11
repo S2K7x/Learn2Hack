@@ -1,4 +1,3 @@
-```markdown
 # OSINT Cheat Sheet
 
 A comprehensive guide focused on **Open Source Intelligence (OSINT)**, covering core concepts, tools, techniques, and ethical considerations for gathering publicly available information on individuals, organizations, and other targets. OSINT is commonly used in **security assessments**, **penetration testing**, and **threat intelligence gathering**.
