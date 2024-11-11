@@ -1,4 +1,3 @@
-```markdown
 # Cybersecurity Core Concepts Cheat Sheet
 
 A comprehensive cheat sheet covering essential cybersecurity concepts, including the **CIA Triad**, **encryption fundamentals**, **secure configurations**, and an overview of **common cyber threats**. This resource is perfect for beginners in cybersecurity or anyone needing a reference for secure practices and threat awareness.
