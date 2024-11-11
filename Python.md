@@ -1,4 +1,3 @@
-```markdown
 # Python Cheat Sheet for Developers and Security Researchers
 
 A comprehensive Python cheat sheet covering fundamental concepts, useful modules, and security practices. This guide is ideal for general development, scripting, automation, data analysis, and security-focused tasks.
