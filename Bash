@@ -1,4 +1,3 @@
-```markdown
 # Bash Scripting and Command Line Cheat Sheet
 
 This cheat sheet covers essential commands, scripting basics, automation techniques, and best practices for tasks commonly used in system administration, automation, and penetration testing.
