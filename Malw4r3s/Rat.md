@@ -1,3 +1,5 @@
+> ⚠️ **Disclaimer**: This code is for educational purposes only. Use only in a secure, isolated lab environment with proper authorization. Unauthorized use or deployment of malware is illegal and unethical.
+
 # Remote Access Trojan (RAT) Cheat Sheet (For Educational Purposes)
 
 This cheat sheet details a basic **Python-based Remote Access Trojan (RAT)**. A RAT enables a remote attacker to gain control of a compromised machine, providing the ability to execute commands, exfiltrate data, or install additional payloads.
