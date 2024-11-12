@@ -1,3 +1,5 @@
+> ⚠️ **Disclaimer**: This code is for educational purposes only. Use only in a secure, isolated lab environment with proper authorization. Unauthorized use or deployment of malware is illegal and unethical.
+
 # Advanced Dropper Malware Cheat Sheet (For Educational Purposes)
 
 This cheat sheet covers an advanced **Python dropper** that stealthily downloads, executes a secondary payload, and automatically installs necessary Python modules. This enhanced version also includes features for persistence, anti-analysis checks, and stealthy execution. **For lab and research environments only; unauthorized use is illegal.**
