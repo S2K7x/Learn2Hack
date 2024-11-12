@@ -1,4 +1,3 @@
-```markdown
 # Cyber Kill Chain Cheat Sheet
 
 This cheat sheet provides an in-depth guide to the **Cyber Kill Chain** phases, with sample commands and scripts illustrating each phase. This is intended for ethical hackers and security enthusiasts to understand the tactics used at each stage. Only execute these commands in a lab environment or with proper authorization for penetration testing.
