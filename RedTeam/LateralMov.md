@@ -201,8 +201,6 @@ These cheat sheets provide quick access to common techniques, tools, and command
 
 ### 📘 Resources
 
-- **CrackMapExec Documentation**: [CrackMap
-
-Exec GitHub](https://github.com/byt3bl33d3r/CrackMapExec)
+- **CrackMapExec Documentation**: [CrackMapExec GitHub](https://github.com/byt3bl33d3r/CrackMapExec)
 - **BloodHound Documentation**: [BloodHound Wiki](https://github.com/BloodHoundAD/BloodHound/wiki)
 - **PayloadsAllTheThings**: [Persistence Techniques](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Persistence)
