@@ -14,8 +14,8 @@ Whether you're a beginner or an experienced professional, these resources will h
 ### 2. **OS (Operating Systems)**  
    - Command-line tips, system administration techniques, OS hardening practices, and automation with scripts.
      
-### 3. **Bash**
-   - Automation scripts, useful commands, and workflow improvements for Linux systems.
+### 3. **Networking**  
+   - Protocols, configurations, troubleshooting, and best practices for securing and optimizing network infrastructures.
 
 ### 4. **OSINT (Open-Source Intelligence)**
    - Techniques for gathering and analyzing publicly available information for security purposes.
